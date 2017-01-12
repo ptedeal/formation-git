@@ -1,2 +1,3 @@
 # formation-git
 Formation GIT
+Ceci est un fichier test pour les operations CLONE ...
